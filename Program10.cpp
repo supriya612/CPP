@@ -1,3 +1,4 @@
+//accept a number from user & display factorial of tha number.
 #include<iostream>
 using namespace std;
 
